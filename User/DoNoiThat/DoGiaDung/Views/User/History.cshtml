@@ -1,0 +1,54 @@
+﻿@model IEnumerable<DoGiaDung.Models.TRANSACTION>
+
+@{
+    ViewBag.Title = "History";
+    Layout = "~/Views/Shared/_LayoutHome.cshtml";
+}
+
+
+<section id="cart-view">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <br /><br />
+                <h2>Lịch Sử Mua Hàng</h2>
+                <div class="cart-view-area">
+                    <div class="cart-view-table aa-wishlist-table">
+                        <form action="">
+                            <div class="table-responsive">
+                                <table class="table">
+                                    <thead>
+
+                                        <tr>
+                                            <th>Order</th>
+                                            <th></th>
+                                            <th>Product</th>
+                                            <th>Tổng Tiền</th>
+                                            <th>Ngày Mua</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tbody>
+                                            <tr>
+                                                <td><a class="remove" href="#">@Html.DisplayFor(x => item.transaction_id)</a></td>
+                                                <td><a href="#"><img src="~/img/product_11042_3.png" alt="img"></a></td>
+                                                <td><a class="aa-cart-title" href="#">Nồi Cơm Điện ABC </a></td>
+                                                <td>@Html.DisplayFor(x => item.amount)</td>
+                                                <td>@Html.DisplayFor(x => item.transaction_created)</td>
+                                                <td><a href="#" class="aa-add-to-cart-btn">Xem Chi Tiết</a></td>
+                                            </tr>
+
+                                        </tbody>
+                                    }
+                                </table>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

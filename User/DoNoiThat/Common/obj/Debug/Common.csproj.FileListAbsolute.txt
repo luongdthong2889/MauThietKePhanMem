@@ -1,0 +1,23 @@
+C:\Users\Quoc Huy\Downloads\User\DoGiaDung\Common\bin\Debug\Common.dll
+C:\Users\Quoc Huy\Downloads\User\DoGiaDung\Common\bin\Debug\Common.pdb
+C:\Users\Quoc Huy\Downloads\User\DoGiaDung\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Quoc Huy\Downloads\User\DoGiaDung\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Huy\Downloads\User\DoGiaDung\Common\obj\Debug\Common.dll
+C:\Users\Quoc Huy\Downloads\User\DoGiaDung\Common\obj\Debug\Common.pdb
+C:\Users\Quoc Huy\Downloads\DoGiaDung\Common\bin\Debug\Common.dll
+C:\Users\Quoc Huy\Downloads\DoGiaDung\Common\bin\Debug\Common.pdb
+C:\Users\Quoc Huy\Downloads\DoGiaDung\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Quoc Huy\Downloads\DoGiaDung\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Quoc Huy\Downloads\DoGiaDung\Common\obj\Debug\Common.dll
+C:\Users\Quoc Huy\Downloads\DoGiaDung\Common\obj\Debug\Common.pdb
+C:\Users\User\Desktop\DoGiaDung\Common\bin\Debug\Common.dll
+C:\Users\User\Desktop\DoGiaDung\Common\bin\Debug\Common.pdb
+C:\Users\User\Desktop\DoGiaDung\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DoGiaDung\Common\obj\Debug\Common.dll
+C:\Users\User\Desktop\DoGiaDung\Common\obj\Debug\Common.pdb
+D:\HUFLIT HK 2 NAM 3\Thuong Mai Dien Tu\Do An\User\DoGiaDung\Common\bin\Debug\Common.dll
+D:\HUFLIT HK 2 NAM 3\Thuong Mai Dien Tu\Do An\User\DoGiaDung\Common\bin\Debug\Common.pdb
+D:\HUFLIT HK 2 NAM 3\Thuong Mai Dien Tu\Do An\User\DoGiaDung\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\HUFLIT HK 2 NAM 3\Thuong Mai Dien Tu\Do An\User\DoGiaDung\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\HUFLIT HK 2 NAM 3\Thuong Mai Dien Tu\Do An\User\DoGiaDung\Common\obj\Debug\Common.dll
+D:\HUFLIT HK 2 NAM 3\Thuong Mai Dien Tu\Do An\User\DoGiaDung\Common\obj\Debug\Common.pdb
